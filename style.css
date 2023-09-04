@@ -1,0 +1,12 @@
+#container {
+    height: 100vh;
+    width: 100vw;
+    background-color: cadetblue;
+}
+
+#quote-box {
+    background-color: azure;
+    color: cadetblue;
+    padding: 40px;
+    border-radius: 10px 100px / 120px;
+}
